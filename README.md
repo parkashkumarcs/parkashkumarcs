@@ -1,5 +1,5 @@
 # Hi there! I'm Parkash Kumar 👋
-🚀 MERN Stack Developer | Full-Stack Engineer | Freelancer
+🚀 MERN Stack Developer | Full-Stack Engineer | UI/UX  Designer| Freelancer
 
 I am a passionate MERN Stack Developer with experience in building scalable, high-performance web applications. I specialize in crafting seamless user experiences, optimizing backend performance, and delivering end-to-end full-stack solutions.
 
@@ -20,6 +20,8 @@ I am a passionate MERN Stack Developer with experience in building scalable, hig
 #### 🔐 Authentication (JWT, OAuth, Firebase Auth)
 # DevOps & Tools
 #### 🛠 Git, GitHub, CI/CD, Docker
+#### 🖥️ VS Code Studio  
+#### 🎨 Figma
 #### ☁ AWS, Vercel, Netlify, DigitalOcean
 #### 📊 RESTful APIs, WebSockets, GraphQL
 ##💡 What I’m Currently Working On
