@@ -24,7 +24,7 @@ I am a passionate MERN Stack Developer with experience in building scalable, hig
 #### 🎨 Figma
 #### ☁ AWS, Vercel, Netlify, DigitalOcean
 #### 📊 RESTful APIs, WebSockets, GraphQL
-##💡 What I’m Currently Working On
+## 💡What I’m Currently Working On
 #### 🎯 Building Full-Stack Web Applications
 #### 📖 Learning Advanced Cloud Deployment & DevOps
 #### 🤝 Open to Collaborating on Innovative Projects
