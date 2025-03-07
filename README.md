@@ -5,7 +5,7 @@ I am a passionate MERN Stack Developer with experience in building scalable, hig
 
 ## 🔥 About Me
 #### 💻 MERN Stack Expert – Proficient in MongoDB, Express.js, React.js, and Node.js
-### https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png Bootsrap Development
+#### 🅱️Bootsrap Development
 #### 🏗 Building Scalable Applications – From idea to deployment
 #### 🚀 Passionate about UI/UX – Creating modern, responsive, and interactive designs
 #### 🔄 Collaborative & Remote Work Enthusiast – Working effectively in diverse teams
