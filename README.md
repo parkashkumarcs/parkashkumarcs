@@ -30,7 +30,6 @@ I am a passionate MERN Stack Developer with experience in building scalable, hig
 #### 🤝 Open to Collaborating on Innovative Projects
 # 📬 How to Reach Me
 ## 📩 Email: parkashkumar.bscs.official@gmail.com
-## 🎓 Educational Email: parkashkumar.bscsses21@iba-suk.edu.pk
 #### 📱 WhatsApp: +92 307 0718570
 # 💼 LinkedIn: https://www.linkedin.com/in/parkashkumar/
 ## 💻 Portfolio: https://parkashkumarcs.github.io/my-official-webpage/
