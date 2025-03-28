@@ -44,7 +44,7 @@ I am a passionate MERN Stack Developer with experience in building scalable, hig
 
 
 # 💡 Fun Fact:
-🚀 I pushed my first Git commit before my morning coffee! ☕
+## 🚀 I pushed my first Git commit before my morning coffee! ☕
 
 ## 🤖 My code runs perfectly... on my machine! 😆
 
