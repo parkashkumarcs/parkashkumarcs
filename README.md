@@ -57,4 +57,4 @@ I am a passionate MERN Stack Developer with experience in building scalable, hig
 ## 🐱 My GitHub contributions graph is my personal digital garden! 🌱
 
 ## 🔥 My Stack Overflow search history could write a book. 📖
-#### 🔥 "I love solving complex coding challenges & learning emerging web technologies!"
+# 🔥 I love solving complex coding challenges & learning emerging web technologies!
