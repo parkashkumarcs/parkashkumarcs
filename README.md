@@ -1,5 +1,5 @@
 # Hi there! I'm Parkash Kumar 👋
-🚀 MERN Stack Developer | Full-Stack Engineer | UI/UX  Designer| Freelancer
+### 🚀 MERN Stack Developer | Full-Stack Engineer | UI/UX  Designer| Web Developer | Freelancer
 
 
 I am a passionate MERN Stack Developer with experience in building scalable, high-performance web applications. I specialize in crafting seamless user experiences, optimizing backend performance, and delivering end-to-end full-stack solutions.
