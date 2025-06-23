@@ -44,17 +44,17 @@ I am a passionate MERN Stack Developer with experience in building scalable, hig
 
 
 # 💡 Fun Fact:
-## 🚀 I pushed my first Git commit before my morning coffee! ☕
+### 🚀 I pushed my first Git commit before my morning coffee! ☕
 
-## 🤖 My code runs perfectly... on my machine! 😆
+### 🤖 My code runs perfectly... on my machine! 😆
 
-## 🏗️ I believe in git commit -m "fixed it"—but do I really fix it?
+### 🏗️ I believe in git commit -m "fixed it"—but do I really fix it?
 
-## 🏆 I once spent 3 hours debugging a semicolon... true story!
+### 🏆 I once spent 3 hours debugging a semicolon... true story!
 
-## 🎨 Dark mode = best mode for coding. No arguments!
+### 🎨 Dark mode = best mode for coding. No arguments!
 
-## 🐱 My GitHub contributions graph is my personal digital garden! 🌱
+### 🐱 My GitHub contributions graph is my personal digital garden! 🌱
 
-## 🔥 My Stack Overflow search history could write a book. 📖
-## 🔥 I love solving complex coding challenges & learning emerging web technologies!
+### 🔥 My Stack Overflow search history could write a book. 📖
+### 🔥 I love solving complex coding challenges & learning emerging web technologies!
