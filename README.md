@@ -1,15 +1,16 @@
 # Hi there! I'm Parkash Kumar 👋
 ### 🚀 MERN Stack Developer | Full-Stack Engineer | UI/UX  Designer| Web Developer | Freelancer
 
-
+## 🔥 About Me
 I am a passionate MERN Stack Developer with experience in building scalable, high-performance web applications. I specialize in crafting seamless user experiences, optimizing backend performance, and delivering end-to-end full-stack solutions.
 
-## 🔥 About Me
 #### 💻 MERN Stack Expert – Proficient in MongoDB, Express.js, React.js, and Node.js
 #### 🅱️Bootsrap Framework
 #### 🏗 Building Scalable Applications – From idea to deployment
 #### 🚀 Passionate about UI/UX – Creating modern, responsive, and interactive designs
 #### 🔄 Collaborative & Remote Work Enthusiast – Working effectively in diverse teams
+<img width="533" height="311" alt="image" src="https://github.com/user-attachments/assets/a2dde4e1-555c-47fd-8d54-eb90fbd1da82" />
+
 #### 🚀 Technical Skills
 
 ![Java_Script](https://github.com/user-attachments/assets/8ad502c0-7e57-4abd-a4cc-dae83d99d1c9)
