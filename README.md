@@ -1,4 +1,12 @@
-# 👋 Hi there! I'm Parkash Kumar
+<!-- Banner Image -->
+<p align="center">
+<!--   <img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/a1a2d665-d38b-4462-ab69-726e3ae2fc44" /> -->
+  <img width="1584" height="396" alt="banner1" src="https://github.com/user-attachments/assets/d0b27d03-6096-4d2f-9808-0392882f3936" />
+
+</p>
+
+# 👋 Hi there! I'm Parkash Kuma
+r
 
 ### MERN Stack Developer | Full-Stack Engineer | UI/UX Designer | Web Developer | Freelancer
 
