@@ -1,7 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-<!--   <img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/a1a2d665-d38b-4462-ab69-726e3ae2fc44" /> -->
-  <img width="1584" height="396" alt="banner1" src="https://github.com/user-attachments/assets/d0b27d03-6096-4d2f-9808-0392882f3936" />
+<img width="1584" height="396" alt="banner2" src="https://github.com/user-attachments/assets/520bfd3e-648b-491f-aa71-4715b0a1f7a4" />
 
 </p>
 
@@ -111,10 +110,13 @@ I enjoy transforming complex problems into intuitive, accessible web solutions, 
 #### - Learning Advanced Cloud Deployment & DevOps
 #### - Open to Collaborating on Innovative Projects
 #  How to Reach Me?
-#### Email: parkashkumar.bscs.official@gmail.com
-#### WhatsApp: +92 307 0718570
-#### LinkedIn: https://www.linkedin.com/in/parkashkumar/
-#### Portfolio: https://parkashkumarcs.github.io/my-official-webpage/
+<p align="center">
+  <a href="[https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/parkashkumar/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:parkashkumar&#46;bscs&#46;official&#64;gmail&#46;com">
+    <img src="https://img.shields.io/badge/Email-Me-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+  <a href="[https://yourportfolio.com](https://parkashkumarcs.github.io/my-official-webpage/)"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
 
 # 🚀 Let’s create something impactful together! 🚀
 
