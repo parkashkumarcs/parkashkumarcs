@@ -5,9 +5,25 @@
 
 </p>
 
-# 👋 Hi there! I'm Parkash Kumar
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&multiline=true&lines=Hi+There!+👋+I'm+Parkash+Kumar;" alt="Typing SVG" />
+</p>
 
-### MERN Stack Developer | Full-Stack Engineer | UI/UX Designer | Web Developer | Freelancer
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00F700&center=true&vCenter=true&lines=MERN+Stack+Developer" alt="Typing Animation" />
+</p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00F700&center=true&vCenter=true&lines=Full-Stack+Engineer" alt="Typing Animation" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00F700&center=true&vCenter=true&lines=UI%2FUX+Designer" alt="Typing Animation" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00F700&center=true&vCenter=true&lines=Web+Developer" alt="Typing Animation" />
+</p>
+
 
 ---
 
@@ -23,6 +39,7 @@ I am a passionate and results-driven Full-Stack Web Developer with a strong foun
 - **Experienced with deployment platforms like Vercel, Netlify, and DigitalOcean**
 
 I enjoy transforming complex problems into intuitive, accessible web solutions, and I'm always eager to learn new technologies and contribute to open-source and team projects.
+
 
 ---
 #  Languages, Frameworks & Tools I Use
