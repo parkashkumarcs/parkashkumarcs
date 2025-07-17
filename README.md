@@ -111,11 +111,11 @@ I enjoy transforming complex problems into intuitive, accessible web solutions, 
 #### - Open to Collaborating on Innovative Projects
 #  How to Reach Me?
 <p align="center">
-  <a href="[https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/parkashkumar/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/parkashkumar/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:parkashkumar&#46;bscs&#46;official&#64;gmail&#46;com">
     <img src="https://img.shields.io/badge/Email-Me-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
-  <a href="[https://yourportfolio.com](https://parkashkumarcs.github.io/my-official-webpage/)"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://parkashkumarcs.github.io/my-official-webpage/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 # 🚀 Let’s create something impactful together! 🚀
