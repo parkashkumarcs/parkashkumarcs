@@ -6,7 +6,6 @@
 </p>
 
 # 👋 Hi there! I'm Parkash Kumar
-r
 
 ### MERN Stack Developer | Full-Stack Engineer | UI/UX Designer | Web Developer | Freelancer
 
