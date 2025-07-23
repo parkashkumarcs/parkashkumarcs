@@ -123,7 +123,16 @@ I enjoy transforming complex problems into intuitive, accessible web solutions, 
 # 🚀 Let’s create something impactful together! 🚀
 
 # GitHub Statistics & Live Projects Links
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parkashkumarcs&show_icons=true&theme=orange)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parkashkumarcs&show_icons=true&theme=orange) -->
+<!-- GitHub Stats Card -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=parkashkumarcs&show_icons=true&theme=tokyonight&hide_border=true)
+
+<!-- GitHub Contribution Streak -->
+<img src="https://streak-stats.demolab.com?user=parkashkumarcs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+
 #### My Official Website: https://parkashkumarcs.github.io/my-official-webpage/
 #### GPT-5-WEB-APP: https://parkashkumarcs.github.io/GPT-5-Web-App/
 #### Ultimate Tic-Tac-Toe Game: https://parkashkumarcs.github.io/Ultimate-TicTacToe-game/
