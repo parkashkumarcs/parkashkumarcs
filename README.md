@@ -147,6 +147,7 @@ I enjoy transforming complex problems into intuitive, accessible web solutions, 
 ### 🔥 I love solving complex coding challenges & learning emerging web technologies!
 
 
+![last (1)](https://github.com/user-attachments/assets/9f798a0e-d74b-4d86-a5ea-adf3155b01b8)
 
 
 <!--https://github.com/user-attachments/assets/1aa7507b-e950-46a7-b78a-9115ef012254 -->
