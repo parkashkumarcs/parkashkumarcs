@@ -130,7 +130,10 @@ I enjoy transforming complex problems into intuitive, accessible web solutions, 
 <!-- GitHub Contribution Streak -->
 <img src="https://streak-stats.demolab.com?user=parkashkumarcs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
+
+![Coding GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<!-- ![Coding GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif) -->
 
 
 #### My Official Website: https://parkashkumarcs.github.io/my-official-webpage/
