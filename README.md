@@ -131,8 +131,11 @@ I enjoy transforming complex problems into intuitive, accessible web solutions, 
 <img src="https://streak-stats.demolab.com?user=parkashkumarcs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 
-![Coding GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="45%" height="250px" alt="Coding GIF 1" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="45%" height="250px" alt="Coding GIF 2" />
+</p>
+
 <!-- ![Coding GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif) -->
 
 
