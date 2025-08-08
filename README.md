@@ -106,6 +106,10 @@ I enjoy transforming complex problems into intuitive, accessible web solutions, 
 ![WebSockets](https://img.shields.io/badge/WebSockets-35495E?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=parkashkumarcs&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## 💡What I’m Currently Working On
 #### - Building Full-Stack Web Applications
