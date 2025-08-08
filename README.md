@@ -106,7 +106,9 @@ I enjoy transforming complex problems into intuitive, accessible web solutions, 
 ![WebSockets](https://img.shields.io/badge/WebSockets-35495E?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph && 🏆 GitHub Trophies
+
+[![WeCoded Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=parkashkumarcs&theme=github-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=parkashkumarcs&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
