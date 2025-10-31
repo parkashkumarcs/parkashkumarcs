@@ -7,27 +7,27 @@
 
 <!-- Line 1 -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=ed02d6&center=true&vCenter=true&multiline=true&lines=Hi+There!+👋+I'm+Parkash+Kumar;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=b30033&center=true&vCenter=true&multiline=true&lines=Hi+There!+👋+I'm+Parkash+Kumar;" alt="Typing SVG" />
 </p>
 
 <!-- Line 2 (starts after 3s + 1s from above) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=ed02d6&center=true&vCenter=true&lines=MERN+Stack+Developer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=b30033&center=true&vCenter=true&lines=MERN+Stack+Developer" alt="Typing Animation" />
 </p>
 
 <!-- Line 3 (starts after 3s + 1s + 3s + 1s) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=ed02d6&center=true&vCenter=true&lines=Full-Stack+Engineer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=b30033&center=true&vCenter=true&lines=Full-Stack+Engineer" alt="Typing Animation" />
 </p>
 
 <!-- Line 4 (starts after 12s total so far) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=ed02d6&center=true&vCenter=true&lines=UI%2FUX+Designer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=b30033&center=true&vCenter=true&lines=UI%2FUX+Designer" alt="Typing Animation" />
 </p>
 
 <!-- Line 5 (starts after 16s total so far) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=ed02d6&center=true&vCenter=true&lines=Web+Developer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=b30033&center=true&vCenter=true&lines=Web+Developer" alt="Typing Animation" />
 </p>
 
 
