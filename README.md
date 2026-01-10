@@ -32,19 +32,34 @@
 
 
 ---
+# About Me
 
-## 🔥 About Me
+I am a passionate Full-Stack Web Developer with expertise in the MERN Stack (MongoDB, Express.js, React.js, Node.js), building scalable, high-performance, and user-centric web applications. I thrive in transforming complex problems into intuitive digital experiences and delivering full-cycle solutions from concept to deployment.
 
-I am a passionate and results-driven Full-Stack Web Developer with a strong foundation in the **MERN Stack (MongoDB, Express.js, React.js, Node.js)** and a flair for creating engaging, user-centric digital experiences. With a focus on building scalable, performant, and responsive web applications, I specialize in delivering full-cycle solutions — from concept to deployment.
+## Current Role
+- Full-Stack Developer at Parix.AI
+  - Contributing to impactful projects with a focus on clean architecture, responsive UI/UX, workflow automation, third-party API integrations, and deployment
 
-- **Completed graduation in Computer Science from SIBA University, Pakistan**  
-- **Freelancer with real-world project experience and remote collaboration**  
--  **UI/UX Enthusiast – Crafting modern, clean, and interactive interfaces**  
--  **Skilled in Bootstrap and Tailwind CSS for responsive design**  
-- **RESTful APIs, WebSockets, and GraphQL for dynamic data communication**  
-- **Experienced with deployment platforms like Vercel, Netlify, and DigitalOcean**
+## Education
+- Computer Science Graduate – SIBA University, Pakistan
 
-I enjoy transforming complex problems into intuitive, accessible web solutions, and I'm always eager to learn new technologies and contribute to open-source and team projects.
+## Experience
+- Freelancer with real-world project experience and remote collaboration
+
+## UI/UX & Frontend
+- UI/UX enthusiast, crafting modern, clean, and interactive interfaces
+- Skilled in responsive design using Bootstrap and Tailwind CSS
+
+## Backend & APIs
+- Experienced in dynamic data communication using RESTful APIs, WebSockets, and GraphQL
+
+## Deployment & DevOps
+- Experienced with deployment platforms including Vercel, Netlify, DigitalOcean, and Nginx
+- Familiar with DevOps practices to ensure scalable, secure, and production-ready web solutions
+
+## Interests
+- Continuous learning, innovation, and open-source contribution
+- Building web solutions that combine performance, design, and real-world impact
 
 
 ---
