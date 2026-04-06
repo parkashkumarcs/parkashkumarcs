@@ -123,7 +123,11 @@ I am a passionate Full-Stack Web Developer with expertise in the MERN Stack (Mon
 
 ## 📈 Contribution Graph && 🏆 GitHub Trophies
 
-[![WeCoded Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=parkashkumarcs&theme=github-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+<!-- Contribution Graph (Fixed & Optimized) -->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=parkashkumarcs&bg_color=0d1117&color=fa6705&line=fa6705&point=ffffff&area=true&hide_border=true)
+
+<!-- GitHub Trophies -->
+![trophy](https://github-profile-trophy.vercel.app/?username=parkashkumarcs&theme=onedark&no-frame=true&margin-w=10)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=parkashkumarcs&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
