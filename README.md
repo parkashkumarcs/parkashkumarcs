@@ -76,8 +76,16 @@ I am a passionate Full-Stack Web Developer with expertise in the MERN Stack (Mon
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parkashkumarcs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=parkashkumarcs&theme=tokyonight&hide_border=true" />
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api?username=parkashkumarcs&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    alt="Parkash Kumar's GitHub statistics"
+  />
+  <img
+    width="49%"
+    src="https://streak-stats.demolab.com/?user=parkashkumarcs&theme=tokyonight&hide_border=true"
+    alt="Parkash Kumar's GitHub contribution streak"
+  />
 </p>
 
 ---
@@ -86,7 +94,174 @@ I am a passionate Full-Stack Web Developer with expertise in the MERN Stack (Mon
 
 # Languages, Frameworks & Tools I Use
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkashkumarcs\&layout=compact\&theme=orange)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=900&color=FA6705&center=true&vCenter=true&width=650&lines=Favorite+Tools+%26+Technologies;Full-Stack+Development+%7C+AI+%7C+Cloud" alt="Favorite Tools and Technologies" />
+</p>
+
+<!-- Animated technology icons -->
+
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React.js" width="62" height="62" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="62" height="62" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="62" height="62" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="62" height="62" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="62" height="62" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="62" height="62" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="62" height="62" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="62" height="62" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="62" height="62" />
+</p>
+
+<br />
+
+<table align="center">
+  <tr>
+    <td align="center" width="140">
+      <div style="font-size:42px">🧭</div>
+      <br /><strong>Technical Leadership</strong>
+    </td>
+    <td align="center" width="140">
+      <div style="font-size:42px">🤝</div>
+      <br /><strong>Team Leadership</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55" alt="React.js" />
+      <br /><strong>React.js</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="55" height="55" alt="Next.js" />
+      <br /><strong>Next.js</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="55" height="55" alt="Node.js" />
+      <br /><strong>Node.js</strong>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="140">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55" alt="JavaScript" />
+      <br /><strong>JavaScript</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python" />
+      <br /><strong>Python</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="55" height="55" alt="FastAPI" />
+      <br /><strong>FastAPI</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="55" height="55" alt="Express.js" />
+      <br /><strong>Express.js</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="55" height="55" alt="WordPress" />
+      <br /><strong>WordPress</strong>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="140">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="55" height="55" alt="REST APIs" />
+      <br /><strong>REST APIs</strong>
+    </td>
+    <td align="center" width="140">
+      <div style="font-size:42px">🔌</div>
+      <br /><strong>API Integration</strong>
+    </td>
+    <td align="center" width="140">
+      <div style="font-size:42px">🤖</div>
+      <br /><strong>AI Agents</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="55" height="55" alt="GraphQL" />
+      <br /><strong>GraphQL</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" width="55" height="55" alt="WebSockets" />
+      <br /><strong>WebSockets</strong>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="55" height="55" alt="PostgreSQL" />
+      <br /><strong>PostgreSQL</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="55" height="55" alt="MongoDB" />
+      <br /><strong>MongoDB</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="55" height="55" alt="AWS" />
+      <br /><strong>AWS</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="55" height="55" alt="Vercel" />
+      <br /><strong>Vercel & v0</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="55" height="55" alt="Nginx" />
+      <br /><strong>Nginx</strong>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="140">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55" height="55" alt="Docker" />
+      <br /><strong>Docker</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" width="55" height="55" alt="DigitalOcean" />
+      <br /><strong>DigitalOcean</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" width="55" height="55" alt="Netlify" />
+      <br /><strong>Netlify</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55" alt="Tailwind CSS" />
+      <br /><strong>Tailwind CSS</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="55" height="55" alt="Bootstrap" />
+      <br /><strong>Bootstrap</strong>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="140">
+      <div style="font-size:42px">🎨</div>
+      <br /><strong>UI/UX Design</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="55" height="55" alt="Git" />
+      <br /><strong>Git</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" alt="GitHub" />
+      <br /><strong>GitHub</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="55" height="55" alt="VS Code" />
+      <br /><strong>VS Code</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="55" height="55" alt="Jest" />
+      <br /><strong>Jest</strong>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=parkashkumarcs&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"
+    alt="Most-used languages across Parkash Kumar's public repositories"
+  />
+</p>
 
 ## 📈 Contribution Graph
 
@@ -95,7 +270,10 @@ I am a passionate Full-Stack Web Developer with expertise in the MERN Stack (Mon
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=parkashkumarcs&theme=onedark&no-frame=true&row=1&column=6" />
+  <img
+    src="https://github-profile-trophy-kannan.vercel.app/?username=parkashkumarcs&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=8"
+    alt="Parkash Kumar's GitHub achievements"
+  />
 </p>
 
 ---
@@ -148,7 +326,22 @@ I am a passionate Full-Stack Web Developer with expertise in the MERN Stack (Mon
 
 # 🐍 Contribution Snake
 
-![Snake animation](https://github.com/parkashkumarcs/parkashkumarcs/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/parkashkumarcs/parkashkumarcs/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/parkashkumarcs/parkashkumarcs/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/parkashkumarcs/parkashkumarcs/output/github-contribution-grid-snake.svg"
+      alt="Parkash Kumar's GitHub contribution snake animation"
+    />
+  </picture>
+</p>
 
 ---
 
