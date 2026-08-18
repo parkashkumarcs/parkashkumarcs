@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 
 <p align="center">
- <img width="1935" height="812" alt="ChatGPT Image Aug 18, 2026, 12_09_07 PM" src="https://github.com/user-attachments/assets/17de52ab-c6f3-4775-a503-30e28eb4dd65" />
+<img width="1935" height="812" alt="ChatGPT Image Aug 18, 2026, 12_09_07 PM (2)" src="https://github.com/user-attachments/assets/e8b3ca5d-d7a7-4944-a6f0-5465aae45309" />
 
 </p>
 
